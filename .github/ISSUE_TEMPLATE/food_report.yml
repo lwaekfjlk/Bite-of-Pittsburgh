@@ -1,33 +1,33 @@
-name: 🐛Bug Report
-description: File a bug report here
-title: "[BUG]: "
-labels: ["bug"]
+name: 🍲Food Report
+description: Add a tasty food
+title: "[FOOD]: "
+labels: ["food"]
 assignees: ["JayantGoel001"]
 body:
   - type: markdown
     attributes:
       value: |
-        Thanks for taking the time to fill out this bug report 🤗
+        Thanks for taking the time to fill out this food report 🤗
         Make sure there aren't any open/closed issues for this topic 😃
 
   - type: textarea
-    id: bug-description
+    id: food-description
     attributes:
-      label: Description of the bug
-      description: Give us a brief description of what happened and what should have happened
+      label: Description of the food and its belonging restaurant
+      description: Give us a brief description of how is the food
     validations:
       required: true
 
   - type: textarea
-    id: steps-to-reproduce
+    id: steps-to-get
     attributes:
-      label: Steps To Reproduce
-      description: Steps to reproduce the behavior.
+      label: Steps To Get
+      description: Steps to get the food
       placeholder: |
-        1. Go to '...'
-        2. Click on '...'
-        3. Scroll down to '...'
-        4. See error
+        1. How much is the average
+        2. Where is the restaurant
+        3. Need to reserve
+        4. Tips issue
     validations:
       required: true
 
