@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # 🍜匹村美食指南🍲
+=======
+# 🍜Bite-of-Pittsburgh🍲
+>>>>>>> 9a95ade... support zh and en
 [English](README_en.md)
 
 该仓库旨在为在匹兹堡生活的留学生提供饮食指南（主观意见，仅限于学生内部交流）
