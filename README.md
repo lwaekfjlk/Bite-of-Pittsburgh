@@ -36,7 +36,7 @@
 
 1. CMU-CUC-汉堡🍔
 2. CMU-CUC-面🍜
-3. CMU-Hunan
+3. CMU-Hunan 
 
 ---
 
